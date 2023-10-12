@@ -1,5 +1,5 @@
 # 50.007 ML Project
-## Contributors:
+## Contributors
 Ooi Jia Sheng
 Brandon Tan Rui En
 Darren Chan Yu Hao
