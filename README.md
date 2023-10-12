@@ -1,8 +1,11 @@
 # 50.007 ML Project
 ## Contributors
-Ooi Jia Sheng \n
-Brandon Tan Rui En \n
-Darren Chan Yu Hao \n
+Ooi Jia Sheng
+
+Brandon Tan Rui En
+
+Darren Chan Yu Hao
+
 Michelle Chrisalyn Djunaidi
 
 ## Instructions
